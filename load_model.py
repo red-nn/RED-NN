@@ -3,7 +3,7 @@ import itertools
 import time
 import numpy as np
 from matplotlib import pyplot as plt
-from layer_definition_g import *
+from layer_definition import *
 import tensorflow as tf
 from sklearn.metrics import confusion_matrix
 from scipy.ndimage import rotate
