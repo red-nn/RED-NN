@@ -56,7 +56,7 @@ x_test = x_test / 255.0
 
 # --------------------------------------------------------------------------------------------------------------------
 # Load model
-model = tf.keras.models.load_model('RRT_JournalTest_16_0.h5', custom_objects={'Rig2DConv': Rig2DConv,
+model = tf.keras.models.load_model('RRT_REDNN_16.h5', custom_objects={'Rig2DConv': Rig2DConv,
                                                                               'Periodic_Pad': Periodic_Pad})
 # --------------------------------------------------------------------------------------------------------------------
 
