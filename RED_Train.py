@@ -88,7 +88,7 @@ tensorboardcb = tf.keras.callbacks.TensorBoard(log_dir=os.path.join('tests', nam
 
 model.fit(x_train, y_train,
           batch_size=128,
-          epochs=1,
+          epochs=50,
           verbose=1,
           validation_data=(x_test, y_test),
           callbacks=[reduce_lr, checkpoint, tensorboardcb])
