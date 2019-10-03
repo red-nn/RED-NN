@@ -12,7 +12,7 @@ The [rotational invariant layer](../blob/master/layer_definition.py) definition 
 The [RED-NN architecture](../blob/master/layer_definition.py) is contained in this file. This file is ready for training with other datasets.
 
 ## Pre-trained models
-Two pre-trained models are included in this repository. [Up-right trained model](../blob/master/URT_REDNN_16.h5) and [Randomly rotated model](../blob/master/RRT_REDNN_16.h5). This models can be loaded and tested with [Up-right trained model](../blob/master/load_model.py).
+Two pre-trained models are included in this repository. [Up-right trained model](../blob/master/URT_REDNN_16.h5) and [Randomly rotated model](../blob/master/RRT_REDNN_16.h5). This models can be loaded and tested with [this file](../blob/master/load_model.py).
 
 
 For more information contact: **r.rodriguez@esiee.fr**
