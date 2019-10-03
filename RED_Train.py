@@ -1,6 +1,6 @@
 from __future__ import print_function
 import os
-from layer_definition_g import *
+from layer_definition import *
 import tensorflow as tf
 
 # Don't pre-allocate all GPU memory; allocate only as-needed
