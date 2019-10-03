@@ -11,7 +11,7 @@ The [rotational invariant layer](../blob/master/layer_definition.py) definition 
 ## Network architecture
 The [RED-NN architecture](../blob/master/layer_definition.py) is contained in this file. This file is ready for training with other datasets.
 
-For more information contact: r.rodriguez@esiee.fr
+For more information contact: **r.rodriguez@esiee.fr**
 
-###Authors:
+### Authors:
 Rosemberg Rodriguez Salas, Petr Dokladal, Eva Dokladalova
