@@ -1,4 +1,4 @@
-name: tf-gpu34
+name: tf-rednn
 channels:
   - defaults
 dependencies:
