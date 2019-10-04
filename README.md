@@ -17,5 +17,18 @@ Two pre-trained models are included in this repository. [Up-right trained model]
 
 For more information contact: **r.rodriguez@esiee.fr**
 
+## Requirements
+```
+python = 3.6.9
+tensorflow = 1.13.1 (Tested on tensorflow-gpu version 1.13.1)
+matplotlib = 3.0.3
+sklearn = 0.21.3
+scipy = 1.2.1 (Recent version does not include rotate function)
+```
+An Anaconda environment can be created with the provided [yml file](../blob/master/environment.yml) and the command:
+```
+conda env create -f environment.yml
+```
+
 ### Authors:
 Rosemberg Rodriguez Salas, Petr Dokladal, Eva Dokladalova
