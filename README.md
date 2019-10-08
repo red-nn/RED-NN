@@ -34,7 +34,7 @@ conda env create -f environment.yml
 
 A demonstrarion app is available to download [here](../blob/master/REDNN.apk)
 
-![Numbers](../blob/master/images/numbers_REDNN.gif)
+![](https://raw.github.com/red-nn/RED-NN/master/images/numbers_REDNN.gif)
 
 ### Authors:
 Rosemberg Rodriguez Salas, Petr Dokladal, Eva Dokladalova
