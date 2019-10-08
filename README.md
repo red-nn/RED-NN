@@ -36,5 +36,9 @@ A demonstrarion app is available to download [here](../blob/master/REDNN.apk)
 
 ![](https://raw.github.com/red-nn/RED-NN/master/images/numbers_REDNN.gif)
 
+## Reference
+
+Rotation Equivariant CNN with Self-Organization Behaviour and Angle Prediction - Rosemberg Rodriguez Salas, Petr Dokladal, Eva Dokladalova. October 2019
+
 ### Authors:
 Rosemberg Rodriguez Salas, Petr Dokladal, Eva Dokladalova
