@@ -14,8 +14,12 @@ The [RED-NN architecture](../blob/master/layer_definition.py) is contained in th
 ## Pre-trained models
 Two pre-trained models are included in this repository. [Up-right trained model](../blob/master/URT_REDNN_16.h5) and [Randomly rotated model](../blob/master/RRT_REDNN_16.h5). This models can be loaded and tested with [this file](../blob/master/load_model.py).
 
+The network capabilities can be tested using
 
-For more information contact: **r.rodriguez@esiee.fr**
+```
+python load_model.py
+```
+
 
 ## Requirements
 ```
@@ -42,3 +46,5 @@ Rotation Equivariant CNN with Self-Organization Behaviour and Angle Prediction -
 
 ### Authors:
 Rosemberg Rodriguez Salas, Petr Dokladal, Eva Dokladalova
+For more information contact: **r.rodriguez@esiee.fr**
+
