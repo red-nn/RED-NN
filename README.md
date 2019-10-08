@@ -30,5 +30,11 @@ An Anaconda environment can be created with the provided [yml file](../blob/mast
 conda env create -f environment.yml
 ```
 
+## Android App
+
+A demonstrarion app is available to download [here](../blob/master/REDNN.apk)
+
+![Numbers](../blob/master/images/numbers_REDNN.gif)
+
 ### Authors:
 Rosemberg Rodriguez Salas, Petr Dokladal, Eva Dokladalova
